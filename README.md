@@ -2,7 +2,7 @@
 
 ### MCA AIML Student | Python | Machine Learning | Deep Learning | NLP | Computer Vision
 
-I'm an MCA student specializing in Artificial Intelligence and Machine Learning,
+I'm an MCA recent graduate specializing in Artificial Intelligence and Machine Learning,
 with hands-on experience in Python, Data Analytics, Machine Learning,
 Deep Learning, NLP, Computer Vision, and web development.
 
