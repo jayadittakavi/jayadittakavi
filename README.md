@@ -22,7 +22,7 @@ Scikit-learn | Regression | Classification | Feature Engineering | Model Evaluat
 TensorFlow | Keras | PyTorch | CNN | Transfer Learning
 
 ### NLP
-NLP | TF-IDF | Text Preprocessing | spaCy | NLTK
+NLP | TF-IDF | Text Preprocessing | spaCy | NLTK | Hugging Face Transformers
 
 ### Computer Vision
 OpenCV | Pillow | Image Processing | OCR
@@ -30,15 +30,23 @@ OpenCV | Pillow | Image Processing | OCR
 ### Data Analytics
 Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel
 
+### AI & Generative AI
+Generative AI | LLMs | Prompt Engineering | OpenAI API | LangChain | LangGraph
+
+### RAG & AI Knowledge Systems
+Retrieval-Augmented Generation (RAG) | Embeddings
+
+### MLOps & LLMOps
+MLflow | Docker | CI/CD | Model Deployment | LLM Evaluation & Monitoring
+
 ### AI & Automation
-Generative AI | Prompt Engineering | AI Automation
+AI Automation | AI Agents | Workflow Orchestration
 
 ### Development
 Streamlit | FastAPI | REST APIs
 
 ### Tools
 Git | GitHub | Jupyter Notebook | VS Code
-
 ---
 
 ## 🚀 Featured Projects
